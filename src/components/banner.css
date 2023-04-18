@@ -1,0 +1,36 @@
+.banner{
+    height: 430px;
+    position: relative;
+    margin-top: 80px;
+}
+.banner__content{
+    padding-left: 50px;
+    max-width: 1000px;
+    padding-top: 80px;
+}
+.banner__title{
+    font-size: 48px;
+    color: #f9f9f9;
+    margin: 0;
+}
+.banner__movie_description{
+    font-size: 24px;
+    color: #f9f9f9;
+    line-height: 34px;
+}
+.banner__button{
+    padding: 15px 60px;
+    background-color: rgba(51, 51, 51, 0.8);
+    color: #f9f9f9;
+    font-weight: 700;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.banner__button:hover{
+    background-color: #f9f9f9;
+    color: #111111;
+    transition: all 0.2s;
+}
